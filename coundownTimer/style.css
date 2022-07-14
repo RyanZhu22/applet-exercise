@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  /* import image */
+  background-image: url(./snowMountain.jpg);
+  /* make image center and full of screen  */
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* make all text center */
+  text-align: center;
+  border-radius: 50px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #cccccc;
+}
+
+.num {
+  float: left;
+  width: 300px;
+  padding: 10px;
+  font-size: 1.7rem;
+  color: #333366;
+}
