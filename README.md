@@ -1,2 +1,1 @@
-# Practice-Project
-#self-study #imitation
+# Practice-Project Small Project
