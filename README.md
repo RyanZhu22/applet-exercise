@@ -1,1 +1,2 @@
-# Practice-Project Small Project
+## Applet
+## HTML CSS JavaScript 
