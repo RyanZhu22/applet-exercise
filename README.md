@@ -11,3 +11,12 @@
 - questions from obj
 - select answer
 - at the end show score
+
+3. Notes App
+- Design: https://uidesigndaily.com/posts/photoshop-notes-widget-day-65
+- basic note
+- support markdown
+
+4. ToDo App
+- Design: http://todomvc.com/examples/react/#/
+- basic todos
